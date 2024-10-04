@@ -1,4 +1,6 @@
-# curso-vue3
+# curso-proy-vue-vite
+Proyecto de pruebas con vite en VUE3
+
 
 ## Project setup
 ```
